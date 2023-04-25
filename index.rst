@@ -1,3 +1,6 @@
+Welcome to Gamify IT's documentation!
+=====================================
+
 .. toctree::
    :maxdepth: 1
 
