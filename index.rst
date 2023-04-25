@@ -1,4 +1,4 @@
-Welcome to Gamify IT's documentation!
+Welcome to my test documentation!
 =====================================
 
 .. toctree::
